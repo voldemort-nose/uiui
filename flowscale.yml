@@ -1,0 +1,12 @@
+# Flowscale configuration file. Do not edit directly  
+version: 0
+builder_version: latest
+comfyui_version: ComfyUI-0.3.30
+flowscale_nodes_version: 7f7542c2981432a63526f4fac28902653cb60e9c
+models: models.json
+custom_nodes: custom_nodes.json
+user_models: user_models.json
+user_custom_nodes: user_custom_nodes.json
+workflows: []
+normal_workflows: []
+  
